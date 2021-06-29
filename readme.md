@@ -1,4 +1,4 @@
-# 농작물 병해충 탐지
-![capture](src/capture_.png)
-  
-![test](src/teststrawberry_.png)
+# Deep Learning Based Flask Server
+
+
+[![Alt text](https://github.com/Mr-TalhaIlyas/YOLO_v2/blob/master/screens/yolov2.gif)](https://www.youtube.com/watch?v=ycL7oE3h_m4)
